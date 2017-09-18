@@ -1,0 +1,27 @@
+read README if you haven't...
+
+if the bot doesnt work its becaus your screen is not in 1920X1080 resultion,
+
+use mouse.py to get cordinates and change them in main.py
+
+
+start mouse.py 
+enter the game and wait for it to load
+
+put your mouse over the play button and press f2 once
+then over the squad button and press f2 once
+then over the AUTO_MATCING check box press f2 once
+then enter a game and die
+put your mouse over the exit and press f2
+then over the ok conifarmation button and press f2
+
+next cause a reconnection problem by entering the game and disconeectiong from the internet
+put your mouse over the RECONNECT button in game press f2
+
+exit the game
+
+copy all the cordinates you got from the console to a text file and save it
+
+open main.py in text format (notepad or whatever u got), replace the current cordinates with the one u got (ull see where,ITS VEREY CLEAR)
+
+enjoy
